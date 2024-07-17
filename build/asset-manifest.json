@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5924bcbf.css",
+    "main.js": "/static/js/main.07725533.js",
+    "static/js/453.44106889.chunk.js": "/static/js/453.44106889.chunk.js",
+    "static/media/repair.jpg": "/static/media/repair.9c46ebce464e8558d4c8.jpg",
+    "static/media/repair3.jpg": "/static/media/repair3.feadc60cfd9b36d5d01f.jpg",
+    "static/media/virus.webp": "/static/media/virus.70f7afd52323d6d9fe04.webp",
+    "static/media/about2.jpeg": "/static/media/about2.7755f8b4df8ca60d57a6.jpeg",
+    "static/media/recovery.jpg": "/static/media/recovery.95f97d887d3a511decf6.jpg",
+    "static/media/screen.webp": "/static/media/screen.32e40e29397f02a1d536.webp",
+    "static/media/repair1.webp": "/static/media/repair1.91c1e041cbe960fb8419.webp",
+    "static/media/clean.webp": "/static/media/clean.a11ac5be8bfd7446a8b7.webp",
+    "static/media/network.webp": "/static/media/network.2299594ca5b73532bdbd.webp",
+    "static/media/hardware.jpg": "/static/media/hardware.f2490139a17a34f0ca80.jpg",
+    "index.html": "/index.html",
+    "main.5924bcbf.css.map": "/static/css/main.5924bcbf.css.map",
+    "main.07725533.js.map": "/static/js/main.07725533.js.map",
+    "453.44106889.chunk.js.map": "/static/js/453.44106889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5924bcbf.css",
+    "static/js/main.07725533.js"
+  ]
+}
